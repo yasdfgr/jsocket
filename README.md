@@ -1,7 +1,7 @@
 # jsocket
 Automatically exported from http://code.google.com/p/jsocket
 
-The easy socket solution for javascript
+The easy socket solution for javascript.
 This library can be used to establish a socket connection from within the browser.
 
 Note
